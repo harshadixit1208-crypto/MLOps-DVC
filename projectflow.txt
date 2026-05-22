@@ -1,2 +1,6 @@
 1.Create a git repo and clone from it with .gitignore (in python) and Readme.md and MIT License
 2.Create code.py and add code to it (it will save a csv file to data folder).
+3.Do a git add commit push to the git 
+4.pip insatll DVC, the do div init(creates .dvc, .dvcignore)
+5. Do "dvc remote add -d myremote s3"\
+5.Next "dvc add data/"
